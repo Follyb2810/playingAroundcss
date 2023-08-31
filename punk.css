@@ -1,0 +1,17 @@
+#gameboard{
+    border: 3px solid;
+}
+#scoretext{
+    font-size: 100px;
+}
+#restbtn{
+    font-size: 22px;
+    width: 100px;
+    height: 50px;
+    border: 4px solid;
+    cursor: pointer;
+    border-radius: 15px;
+}
+#gamecontainer{
+    text-align: center;
+}

@@ -1,0 +1,18 @@
+.choicebtn{
+line-height: 30px;
+width: 150pc;
+
+}
+#gamediv{
+    border: 3px solid;
+    border-radius: 25px;
+    padding: 10px;
+    background-color: lightcyan;
+    text-align: center;
+}
+#playertext{
+    color: blue;
+}
+#computertest{
+    color: red;
+}
